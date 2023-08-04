@@ -18,4 +18,4 @@ const num1 = 10;
 const num2 = 20;
 const num3 = 30;
 const result = smallNumber(num1, num2, num3);
-console.log('The small number is', result)
+console.log('The smallest number is', result);
