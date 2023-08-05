@@ -1,4 +1,4 @@
-// This is a simple java script problem find smallest number 
+// This is a simple java script problem find smallest number between 3 variables
 function smallNumber(num1, num2, num3){
     let smallest;
     if(num1 <= num2 && num1 <= num3){
