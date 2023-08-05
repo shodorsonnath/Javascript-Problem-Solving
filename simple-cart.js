@@ -1,0 +1,1 @@
+// This is a simple javascript problem calculation cart item
